@@ -12,9 +12,9 @@
 
 ### About Me
 
-I build practical software systems with a focus on clean architecture, reliable data handling, and maintainable product delivery. 
+I am a Computer Science student dedicated to building robust, high-performance, and scalable software architectures. With a strong focus on backend engineering, systems development, database management, and mobile platforms, I prioritize delivering clean, readable, and maintainable code.
 
-Database Tip: I prefer using ULID over UUID for database indexing optimization to keep queries blazing fast!
+My approach to software design emphasizes decoupled design patterns, secure data handling, and optimized system performance. I enjoy solving complex problems, designing efficient workflows, and building applications that offer seamless and reliable user experiences.
 
 ---
 
@@ -22,7 +22,7 @@ Database Tip: I prefer using ULID over UUID for database indexing optimization t
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=laravel,postgres,react,kotlin,androidstudio,git,bash,vscode,postman" alt="My Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=laravel,mysql,postgres,go,svelte,react,kotlin,androidstudio,git,bash,vscode,postman" alt="My Tech Stack" />
   </a>
 </p>
 
@@ -30,10 +30,11 @@ Database Tip: I prefer using ULID over UUID for database indexing optimization t
 
 ### GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ebimsa&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ebimsa&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
-</p>
+<div align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=ebimsa&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <br/><br/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=ebimsa&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+</div>
 
 ---
 
@@ -50,5 +51,6 @@ Database Tip: I prefer using ULID over UUID for database indexing optimization t
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
+
 
 
